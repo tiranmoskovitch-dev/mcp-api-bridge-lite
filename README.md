@@ -46,10 +46,10 @@ The **full MCP API Bridge** includes:
 - Dynamic tools generated from your endpoint config
 - Concurrent request control
 
-**[Get the full version →](https://whop.com/tirantech)**
+**[Get the full version →](https://whop.com/checkout/plan_bys1zVJEPhQji)**
 
 ## Part of the MCP Starter Arsenal
 
 4 production-ready MCP servers: Database, API Bridge, RAG, and Web Scraper.
 
-**[Get the full arsenal →](https://whop.com/tirantech)**
+**[Get the full arsenal →](https://whop.com/checkout/plan_rdUWYjU5aDoA0)**
